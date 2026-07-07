@@ -1,74 +1,140 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=1f2937&height=240&section=header&text=KAVEH%20ZOHRABI&fontSize=75&animation=twinkling&fontColor=00f2fe&fontAlignY=45" width="100%" alt="Premium Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Backend+Architecture+Expert;Automation+%26+n8n+Engineer;Advanced+Linux+Scripter" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaveh-zohrabi">
-    <img src="https://img.shields.io/github/followers/kaveh-zohrabi?label=Network+Followers&style=for-the-badge&color=111827&logo=github&logoColor=00f2fe" alt="Followers"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrerfnault/andrerfnault/main/images/glow_divider.gif" width="85%" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40" /> Core Tech Matrix
-
 <div align="center">
-  <table border="0" cellpadding="15">
-    <tr>
-      <td align="center" width="33%" bgcolor="#111827" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card+Index.png" width="50" /><br/>
-        <h3>📡 Backend</h3>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      </td>
-      <td width="2%"></td>
-      <td align="center" width="33%" bgcolor="#111827" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="50" /><br/>
-        <h3>🤖 Automation</h3>
-        <img src="https://img.shields.io/badge/n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-      </td>
-      <td width="2%"></td>
-      <td align="center" width="33%" bgcolor="#111827" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="50" /><br/>
-        <h3>🐧 Systems</h3>
-        <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+
+<img src="https://raw.githubusercontent.com/andrerfnault/andrerfnault/main/images/glow_divider.gif" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveh+Zohrabi;Full-Stack+Developer+%7C+AI+%26+Automation;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Python+%E2%80%A2+n8n;Building+for+the+Iranian+Market+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
+
+[![Followers](https://img.shields.io/github/followers/kaveh-zohrabi?label=Network+Followers&style=for-the-badge&color=111827&logo=github&logoColor=00f2fe)](https://github.com/kaveh-zohrabi)
+[![Profile Views](https://komarev.com/ghpvc/?username=kaveh-zohrabi&style=for-the-badge&color=111827&label=Profile+Views)](https://github.com/kaveh-zohrabi)
+
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct+Hit.png" width="40" /> Engineering Philosophy
+### 🧭 About Me
+
+I'm a full-stack developer who enjoys turning ideas into working products — from digital menu SaaS platforms with geofencing to AI voice assistants and Telegram automation bots. Most of my recent work is built **for and around the Iranian market**: Persian/RTL interfaces, ZarinPal payments, SMS.ir integration, and local hosting realities.
+
+- 🔭 Currently building **a geofenced digital menu SaaS** for cafés & restaurants (Laravel + Vue 3 + ZarinPal)
+- 🤖 Exploring **local LLMs** (Ollama, Qwen, GLM) for RAG chatbots and dev tooling
+- 🛠️ Automating workflows with **n8n** — Telegram bots, Google Sheets, Gmail, Groq/Whisper pipelines
+- 🌱 Learning by building: neural nets from scratch, browser automation, and terminal coding agents
+- 💬 Ask me about: Laravel, Vue 3, ZarinPal integration, n8n automation, or Persian RTL UI
+
+---
+
+### 🛠️ Core Tech Matrix
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**📡 Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🎨 Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-FF6D33?style=flat-square&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+**🐧 Systems & Payments**
+
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![ZarinPal](https://img.shields.io/badge/ZarinPal-FFD400?style=flat-square&logo=payoneer&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_%2F_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Work
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**📍 Cafe Menu SaaS**
+Geofencing-based digital menu platform — customers walk into a venue and the menu opens automatically, no scanning required.
+`Laravel` `Vue 3` `ZarinPal`
+
+</td>
+<td width="50%" valign="top">
+
+**🗣️ AI Voice Assistant**
+Jarvis-style assistant with an animated face, Persian TTS, and a local LLM brain — deployed via Docker to Hugging Face Spaces.
+`Ollama` `Node.js` `React/Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛍️ 3D Storefront**
+A glassmorphism e-commerce experience with a Three.js product showcase and full Persian RTL support.
+`Three.js` `Vue 3` `RTL`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 BizAI**
+A RAG-based chatbot SaaS running fully offline-capable, tuned to run on modest hardware.
+`pgvector` `Qwen 2.5 Coder` `Laravel`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💭 Engineering Philosophy
 
 <div align="center">
-  <table border="0" width="85%">
-    <tr>
-      <td bgcolor="#111827" style="border-radius: 8px; padding: 20px; border-left: 4px solid #00f2fe;">
-        <p style="margin: 0; font-size: 16px; color: #9ca3af;">
-          Focusing on building scalable backend architectures, streamlining complex operations with intelligent automation workflows, and maintaining bulletproof Linux environments.
-        </p>
-      </td>
-    </tr>
-  </table>
+
+| Focused on building scalable backend architectures, streamlining operations with intelligent automation, and keeping Linux environments running clean. |
+|:---:|
+
+*"Simplicity is the soul of efficiency."*
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=15&section=footer&width=60%" />
-</p>
+### 📫 Let's Connect
 
-<br />
-<p align="center"><i>"Simplicity is the soul of efficiency."</i></p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-kaveh--zohrabi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaveh-zohrabi)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-1234kavehhh-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/1234kavehhh)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andrerfnault/andrerfnault/main/images/glow_divider.gif" width="100%">
+
+</div>
