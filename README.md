@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/andrerfnault/andrerfnault/main/images/glow_divider.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveh+Zohrabi;Full-Stack+Developer+%7C+AI+%26+Automation;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Python+%E2%80%A2+n8n;Building+for+the+Iranian+Market+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaveh+Zohrabi;Developer+%7C+AI+%26+Automation;Laravel+%E2%80%A2+Vue.js+%E2%80%A2+Python+%E2%80%A2+n8n;Building+for+the+Iranian+Market+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
 
 [![Followers](https://img.shields.io/github/followers/kaveh-zohrabi?label=Network+Followers&style=for-the-badge&color=111827&logo=github&logoColor=00f2fe)](https://github.com/kaveh-zohrabi)
 [![Profile Views](https://komarev.com/ghpvc/?username=kaveh-zohrabi&style=for-the-badge&color=111827&label=Profile+Views)](https://github.com/kaveh-zohrabi)
@@ -13,9 +13,8 @@
 
 ### 🧭 About Me
 
-I'm a full-stack developer who enjoys turning ideas into working products — from digital menu SaaS platforms with geofencing to AI voice assistants and Telegram automation bots. Most of my recent work is built **for and around the Iranian market**: Persian/RTL interfaces, ZarinPal payments, SMS.ir integration, and local hosting realities.
+I'm a developer who enjoys turning ideas into working products — from digital menu SaaS platforms with geofencing to AI voice assistants and Telegram automation bots. Most of my recent work is built **for and around the Iranian market**: Persian/RTL interfaces, ZarinPal payments, SMS.ir integration, and local hosting realities.
 
-- 🔭 Currently building **a geofenced digital menu SaaS** for cafés & restaurants (Laravel + Vue 3 + ZarinPal)
 - 🤖 Exploring **local LLMs** (Ollama, Qwen, GLM) for RAG chatbots and dev tooling
 - 🛠️ Automating workflows with **n8n** — Telegram bots, Google Sheets, Gmail, Groq/Whisper pipelines
 - 🌱 Learning by building: neural nets from scratch, browser automation, and terminal coding agents
@@ -80,32 +79,16 @@ I'm a full-stack developer who enjoys turning ideas into working products — fr
 <tr>
 <td width="50%" valign="top">
 
-**📍 Cafe Menu SaaS**
-Geofencing-based digital menu platform — customers walk into a venue and the menu opens automatically, no scanning required.
-`Laravel` `Vue 3` `ZarinPal`
-
-</td>
-<td width="50%" valign="top">
-
 **🗣️ AI Voice Assistant**
 Jarvis-style assistant with an animated face, Persian TTS, and a local LLM brain — deployed via Docker to Hugging Face Spaces.
 `Ollama` `Node.js` `React/Vite`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **🛍️ 3D Storefront**
 A glassmorphism e-commerce experience with a Three.js product showcase and full Persian RTL support.
 `Three.js` `Vue 3` `RTL`
-
-</td>
-<td width="50%" valign="top">
-
-**🧠 BizAI**
-A RAG-based chatbot SaaS running fully offline-capable, tuned to run on modest hardware.
-`pgvector` `Qwen 2.5 Coder` `Laravel`
 
 </td>
 </tr>
